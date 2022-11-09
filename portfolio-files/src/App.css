@@ -14,9 +14,20 @@ h2 {
   width: auto;
 }
 
-#Forecast, #Boston1, #Bus {
+#Boston1, #Bus, #QRDownload {
   height: auto;
   width: 400px;
+  text-align: center;
+}
+
+#Forecast {
+  height: 300px;
+  width: 350px;
+}
+
+#Bus, #QRDownload {
+  height: 250px;
+  width: 200px;
   text-align: center;
 }
 
@@ -35,7 +46,7 @@ h2 {
   display: flex;
   flex-direction: row;
   text-align: center;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .nav {
