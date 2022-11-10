@@ -14,15 +14,10 @@ h2 {
   width: auto;
 }
 
-#Boston1, #Bus, #QRDownload {
+#Boston1, #Bus, #Forecast, #QRDownload {
   height: auto;
   width: 400px;
   text-align: center;
-}
-
-#Forecast {
-  height: 300px;
-  width: 350px;
 }
 
 #Bus, #QRDownload {
