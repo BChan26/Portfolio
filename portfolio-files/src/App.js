@@ -1,3 +1,10 @@
+//npm start in terminal to run this on localhost:3000
+//https://www.michaeltruong.dev/
+//https://www.rebeccafortes.com/
+//https://danieledminster.com/portfolio
+//https://isaac-ruiz.com/
+//next task in css: create good iconography/logos for current items
+
 import { Route, Routes } from 'react-router-dom'
 import Nav from './components/Nav'
 import AboutMe from './components/AboutMe'
